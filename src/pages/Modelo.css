@@ -3,10 +3,9 @@
     padding: 0;
 }
 .T-BORDE{
-    border: solid 4px #0C70F2;;
+    border: solid 8px #0C70F2;;
 }
 header{
-    padding-bottom: 2REM;
     font-size:2rem;
     font-weight:700 ;
 }
@@ -23,7 +22,7 @@ font-size: 25px;
   font-weight: 700;
 }
 .pçs{
-    width: 70%;
-    padding-top: -2rem;
+    width: 80%;
+    padding-bottom:1rem;
 }
  
