@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.T-BORDE{
+    border: solid 4px #0C70F2;;
+}
+header{
+    padding-bottom: 2REM;
+    font-size:2rem;
+    font-weight:700 ;
+}
+img {
+    width: 95%; 
+}
+div p{
+width: 100%;
+font-size: 25px;
+}
+.T-SETOR{  
+  padding: 0 0 1REM 1REM;
+  font-size: 25px;
+  font-weight: 700;
+}
+.pçs{
+    width: 70%;
+    padding-top: -2rem;
+}
+ 
