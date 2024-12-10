@@ -2,10 +2,6 @@
     margin: 0;
     padding: 0;
 }
-.T-BORDE{
-    border: solid 4px #0C70F2;;
-    width: 100%;
-}
 header{
     width: 90%;
     font-size:2rem;
@@ -19,8 +15,7 @@ div p{
 width: 100%;
 font-size: 25px;
 }
-.T-SETOR{  
-  padding: 0 0 0 3rem;
+.T-SETOR01{  
   font-size: 25px;
   font-weight: 700;
 }

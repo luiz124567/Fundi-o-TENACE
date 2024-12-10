@@ -3,11 +3,11 @@
     padding: 0;
 }
 .T-BORDE{
-    border: solid 4px #0C70F2;;
+  border: solid 1px blue;
     width: 100%;
 }
 img {
-    width: 95%; 
+    width: 90%; 
 }
 div p{
 width: 100%;
@@ -21,4 +21,5 @@ font-size: 25px;
     width: 80%;
     padding-bottom:1rem;
 }
+
  

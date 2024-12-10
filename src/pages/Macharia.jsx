@@ -6,7 +6,7 @@ function Macharia(props) {
     <div>
       <header>{props.PODRUTO}</header>
       <img className="pçs" src={MACHOGM} />
-      <p className="T-SETOR">MOLDE DA ANCORAGEM 5/8 GM 16 FIGURAS</p>
+      <p className="T-SETOR01">MOLDE DA ANCORAGEM 5/8 GM 16 FIGURAS</p>
       <div>
         <img src={MOLDE} />
       </div>
