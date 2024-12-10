@@ -6,12 +6,6 @@
     border: solid 4px #0C70F2;;
     width: 100%;
 }
-header{
-    width: 90%;
-    font-size:2rem;
-    font-weight:700;
-    padding-left: 1.5rem;
-}
 img {
     width: 95%; 
 }
@@ -19,9 +13,9 @@ div p{
 width: 100%;
 font-size: 25px;
 }
-.T-SETOR{  
-  padding: 0 0 1REM 1REM;
-  font-size: 25px;
+.T-MODELO{  
+  padding: 0 0 0 3REM;
+  font-size: 35px;
   font-weight: 700;
 }
 .pçs{

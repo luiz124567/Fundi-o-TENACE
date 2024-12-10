@@ -8,6 +8,8 @@ function Fusão(props) {
       <img className="pçs" src={Arvoregm} />
       <p>{props.descrição06}</p>
       <p>{props.descrição07}</p>
+      <p>{props.descrição08}</p>
+      <p>{props.descrição09}</p>
       <div>
         <img src={MOLDEFUNDIDO} />
       </div>
