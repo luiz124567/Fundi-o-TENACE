@@ -1,5 +1,5 @@
 *{
-    margin: 0;
+    margin: 2px;
     padding: 0;
 }
 
@@ -15,8 +15,9 @@ img {
 }
  div p{
 width: 95%;
-font-size: 18px;
+font-size: 26px;
 padding-top: 2px;
+padding-left: 6px;
 }
 .pçs{
     width: 90%;
