@@ -1,5 +1,6 @@
 import Modelo from "./pages/Moldelo";
 import Macharia from "./pages/Macharia";
+import Moldação from "./pages/Moldação";
 import { useState } from "react";
 import Fusão from "./pages/Fusão";
 import "./App.css";
@@ -14,16 +15,16 @@ function App() {
         descrição02="CAMPANA: 68."
         descrição03="CLICHÊS: MÊS ANO."
       />
+      <Moldação PODRUTO="MOLDAÇÃO" descrição01="PROD./ HORA: 49." descrição02="PROD. DIÁRIA: 441." descrição03="PESO DO MOLDE: 19,0KG."/>
       <Macharia PODRUTO="Macharia" />
       <Fusão
         PODRUTO="FUSÃO"
         descrição06="QTD DE MOLDES POR MONTE: 4."
         descrição07="FILTRO: NÃO USA"
         descrição08="MATERIAL ULTILIZADO:GGG40"
-        descrição01="QTD DE PESO POR ÁRVORE: 4."
-        descrição02="TEMPERATURA DE VAZAMENTO: 1340 á 1420. "
-        descrição03="NÃO TROCAR O PESO ASSIM QUE O FUNDIDOR FUNDIR ESPERAR O FUNDIDOR FUNDIR MAIS DUAS ÁRVORE PRA TROCAR O PESO. (TEMPO DE SOLIDIFICAÇÃO)"
-        
+        descrição01="PESO DE LASTRO: 4 UNIDADE."
+        descrição02="TEMPERATURA DE VAZAMENTO : 1340 a 1420."
+        descrição03="APÓS O ENCHIMENTO DOS MOLDES SÓ RETIRAR O PESO DE LASTRO APÓS O ENCHIMENTO DE OUTRAS 3 ÁRVORES."
       />
     </>
   );

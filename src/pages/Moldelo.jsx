@@ -9,7 +9,7 @@ function Modelo(props) {
         <img src={Logo} />
       </div>
       <header>{props.PODRUTO}</header>
-      <img className="pçs" src={pçs} />
+      <img src={pçs} />
       <p className="T-MODELO">MODELO</p>
       <div>
         <img src={gm} />
