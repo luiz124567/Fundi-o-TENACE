@@ -1,8 +1,6 @@
-*{
-    margin: 0;
-    padding: 0;
-}
-
 .P{
   font-size: 30px;
+}
+div header{
+  padding-top: 1rem;
 }

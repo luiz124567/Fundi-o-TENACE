@@ -4,24 +4,19 @@
 }
 
 .T-BORDE {
-  border: solid 1px blue;
   width: 99%;
 }
-
-img {
-  width: 0%;
-}
-
 div p {
   width: 100%;
   font-size: 25px;
 }
-
+.molde{
+  padding-top: 1rem;
+}
 .T-MODELO {
   font-size: 35px;
   font-weight: 700;
 }
-
 .pçs {
   width: 80%;
   padding-bottom: 1rem;

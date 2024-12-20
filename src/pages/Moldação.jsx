@@ -5,7 +5,7 @@ function Moldação(props) {
   return (
     <div>
       <header>{props.PODRUTO}</header>
-      <img className="" src={MOLDE02} />
+      <img className="molde" src={MOLDE02} />
       <div>
         <p className="P" >{props.descrição01}</p>
         <p className="P">{props.descrição02}</p>
