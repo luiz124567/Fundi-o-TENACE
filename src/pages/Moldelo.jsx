@@ -1,5 +1,5 @@
 import gm from "../img/gm.svg";
-import pçs from "../img/pçs.svg";
+import Peça from "../img/Peça.webp";
 import Logo from "../img/Logo.svg";
 import "../pages/Modelo.css";
 function Modelo(props) {
@@ -9,7 +9,7 @@ function Modelo(props) {
         <img src={Logo} />
       </div>
       <header>{props.PODRUTO}</header>
-      <img src={pçs} />
+      <img src={Peça} />
       <p className="T-MODELO">MODELO</p>
       <div>
         <img src={gm} />
