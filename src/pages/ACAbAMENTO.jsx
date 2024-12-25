@@ -1,5 +1,5 @@
 import "../pages/ACABAMENTO.css";
-import ROSCAGM from "../img/ROSCAGM.svg";
+import ROSCAGM from "../img/ROSCAGM.webp";
 function ACABAMENTO(props) {
   return (
     <div>

@@ -1,5 +1,5 @@
-import MOLDE from "../img/MOLDE.svg";
-import MACHOGM from "../img/MACHOGM.svg";
+import MOLDE from "../img/MOLDE.webp";
+import MACHOGM from "../img/MACHOGM.webp";
 import "../pages/Macharia.css";
 function Macharia(props) {
   return (

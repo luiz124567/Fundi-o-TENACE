@@ -1,5 +1,5 @@
-import MOLDEFUNDIDO from "../img/MOLDEFUNDIDO.svg";
-import Arvoregm from "../img/Arvoregm.svg";
+import MOLDEFUNDIDO from "../img/MOLDEFUNDIDO.webp";
+import Arvoregm from "../img/Arvoregm.webp";
 import "../pages/Fusão.css";
 function Fusão(props) {
   return (

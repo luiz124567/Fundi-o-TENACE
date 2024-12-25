@@ -1,6 +1,6 @@
 import "../pages/ESMERIL.css";
-import ponto1 from "../img/ponto1.svg";
-import ponto2 from "../img/ponto2.svg";
+import ponto1 from "../img/ponto1.webp";
+import ponto2 from "../img/ponto2.webp";
 function ESMERIL(props) {
   return (
     <div>

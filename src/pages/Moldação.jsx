@@ -1,5 +1,4 @@
-import gm from "../img/gm.svg";
-import MOLDE02 from "../img/MOLDE02.svg";
+import MOLDE02 from "../img/MOLDE02.webp";
 import "../pages/Moldação.css";
 function Moldação(props) {
   return (
