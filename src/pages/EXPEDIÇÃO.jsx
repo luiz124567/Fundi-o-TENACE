@@ -1,4 +1,3 @@
-import "../pages/ESMERIL.css";
 import sacaria from "../img/sacaria.webp";
 
 function EXPEDIÇÃO(props) {
