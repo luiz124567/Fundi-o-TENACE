@@ -5,6 +5,7 @@ import Fusão from "./pages/Fusão";
 import "./App.css";
 import ESMERIL from "./pages/ESMERIL";
 import ACABAMENTO from "./pages/ACAbAMENTO";
+import EXPEDIÇÃO from "./pages/EXPEDIÇÃO";
 function App() {
   return (
     <>
@@ -36,8 +37,12 @@ function App() {
         descrição07="PONTO DE ESMERILAÇÃO 02:PARTE SUPERIOR DA  PEÇA."
         descrição01="PONTO DE ESMERILAÇÃO 03:PARTE INFERIOR DA  PEÇA."
       />
-      <ACABAMENTO PODRUTO="ACABAMENTO"/>
-      
+      <ACABAMENTO PODRUTO="ACABAMENTO" />
+      <EXPEDIÇÃO
+        PODRUTO="EXPEDIÇÃO"
+        descrição01="TIPO DE EMBALAGEM:SACARIA."
+        descrição02="QUANTIDADE POR SACO:50 PEÇAS."
+      />
     </>
   );
 }
